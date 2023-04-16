@@ -12,4 +12,3 @@ Fine-tuning Process To fine-tune the LLaMA model, we employed the code provided 
 
 This allowed us to execute the fine-tuning stage using a single two A6000 locally, building upon LLaMA-7B, 13 and 30. After training for several hours, I was impressed by the remarkable outcomes. 
 
-![image](https://user-images.githubusercontent.com/35476741/232321683-d729cbbc-dd32-4717-bb1a-9c231871d79d.png)
