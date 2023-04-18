@@ -2,7 +2,7 @@
 # Author: Oscar A. Rangel
 # Creation date: 2023-04-17
 # Last modified date: 2023-04-17
-# Description: A Python script that translates text in a JSON file using OpenAI's GPT-3.5-turbo model.
+# Description: A Python script that gets the JSON file.
 # License: MIT
 
 import json
